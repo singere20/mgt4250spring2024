@@ -16,3 +16,10 @@ These questions are *especially* **important** because
 
 <img width="338" alt="Screen Shot 2024-05-02 at 5 53 30 PM" src="https://github.com/singere20/mgt4250spring2024/assets/55157734/ec8f0e64-4681-4141-86b6-a56701a0956e">
 
+## Data Description
+
+## Interpreting Visualizations
+<img width="601" alt="Screen Shot 2024-05-02 at 5 56 37 PM" src="https://github.com/singere20/mgt4250spring2024/assets/55157734/d2f188e9-0c82-4ae1-8d60-a083db113841">
+
+## Discussion & Summary
+
