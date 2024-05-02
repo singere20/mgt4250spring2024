@@ -13,3 +13,6 @@ These questions are *especially* **important** because
 3. Reason 3
 
 [Elon University](https://www.elon.edu)
+
+<img width="338" alt="Screen Shot 2024-05-02 at 5 53 30 PM" src="https://github.com/singere20/mgt4250spring2024/assets/55157734/ec8f0e64-4681-4141-86b6-a56701a0956e">
+
