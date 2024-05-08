@@ -7,7 +7,7 @@ Author(s):
 ## Project Description
 This is the final project for course MGT4250 at Elon University. [Link to Visualizations](https://public.tableau.com/views/MGT4250_Final/Sheet1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link).
 
-***Visualization 3 was unable to be deployed in Tableau Public due to clustering being unavailable, it will be included in the Interpreting Visualizations" section.***
+***Visualization 3 was unable to be deployed in Tableau Public due to clustering being unavailable, it will be included in the "Interpreting Visualizations" section.***
 ### Questions of interest
 - What are the different segments of customers we have?
 - How can we find the right customer segments to target our marketing efforts towards?
@@ -31,18 +31,24 @@ obtained in a csv format from the website Kaggle, and can be downloaded by click
 ## Interpreting Visualizations
 
 ### Visualization 1
+![Occupation Distribution_Updated](https://github.com/singere20/mgt4250spring2024/assets/55157734/ae7d4f28-a01e-439f-b0fb-56ac97421797)
+
 The first figure is a histogram titled “Distribution of Occupations”. This visualization
 helps us understand our data and our customers better. By knowing occupation statistics,
 we can start to make educated guesses on which occupation to target for marketing
 purposes.
 
 ### Visualization 2
+![Age vs  Fam Size Scatter_Updated](https://github.com/singere20/mgt4250spring2024/assets/55157734/88b527f6-aa35-4c6a-875b-4748ccc9e001)
+
 The second plot is a scatter plot with age on the x-axis, family size on the y-axis and
 feedback as the color. This plot was created to see if there was any correlation between
 age and family size. This would allow the marketing team to get an idea of the ideal
-customer to target marketing eBorts towards.
+customer to target marketing efforts towards.
 
 ### Visualization 3
+![Symbol Cluster Map_Updated](https://github.com/singere20/mgt4250spring2024/assets/55157734/2152be34-6de4-4cef-8941-b1af3b0966b1)
+
 The third graph is a symbol map displaying different clusters by color. The clusters
 were made using the age, family size, and feedback columns. This is helpful to see
 customers with similar demographics that responded positively or negatively to their order.
