@@ -2,7 +2,7 @@
 Author(s): Ethan Singer (esinger5@elon.edu)
 
 ## Project Description
-[Link to Visualizations](https://public.tableau.com/views/test_17146888696110/Sheet1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+[Link to Visualizations](https://public.tableau.com/views/MGT4250_Final/Sheet1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 ### Questions of interest
 - Q1
 - Q2
