@@ -5,23 +5,23 @@ Author(s):
 3. Jalen Peoples (jpeoples@elon.edu)
 
 ## Project Description
-[Link to Visualizations](https://public.tableau.com/views/MGT4250_Final/Sheet1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
-This is the final project for course MGT4250 at Elon University
+This is the final project for course MGT4250 at Elon University. [Link to Visualizations](https://public.tableau.com/views/MGT4250_Final/Sheet1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link).
+
+***Visualization 3 was unable to be deployed in Tableau Public due to clustering being unavailable, it will be included in the Interpreting Visualizations" section.***
 ### Questions of interest
 - What are the different segments of customers we have?
 - How can we find the right customer segments to target our marketing efforts towards?
+  
 ### Importance
 - Implement more clear and concise targeting objectives with improved customization efforts
 - Increased operational efficiency
 - DoorDash: “we can run an experiment and actually quantify the true impact that it had on the business… from a new
 carousel on the home page to our release of the pickup map in the DoorDash app.”[^1]
 
-[^1]:Mark Maurer “How Doordash Uses Analytics and Forecasting amid Economic Uncertainty.” (Wall Street
-Journal, Dow Jones & Company Inc., 2023)
-
 ## Data Description & Upload
 We chose to use a dataset from an online food ordering platform. The data was
 obtained in a csv format from the website Kaggle, and can be downloaded by clicking [here](https://www.kaggle.com/datasets/sudarshan24byte/online-food-dataset).
+
 ### Variable Explanation
 - Age: Continuous variable that represents the age in years of the customer
 - Family size: Continuous variable that represents the number of individuals in the customer’s family. 
@@ -55,3 +55,6 @@ customers.
 
 
 
+
+[^1]:Mark Maurer “How Doordash Uses Analytics and Forecasting amid Economic Uncertainty.” (Wall Street
+Journal, Dow Jones & Company Inc., 2023)
