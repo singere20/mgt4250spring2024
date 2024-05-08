@@ -48,6 +48,7 @@ customer to target marketing efforts towards.
 
 ### Visualization 3
 ![Symbol Cluster Map_Updated](https://github.com/singere20/mgt4250spring2024/assets/55157734/2152be34-6de4-4cef-8941-b1af3b0966b1)
+<img width="409" alt="Screen Shot 2024-05-08 at 5 39 14 PM" src="https://github.com/singere20/mgt4250spring2024/assets/55157734/3ddebbbe-4d5c-48e5-826e-589acc4f8366">
 
 The third graph is a symbol map displaying different clusters by color. The clusters
 were made using the age, family size, and feedback columns. This is helpful to see
