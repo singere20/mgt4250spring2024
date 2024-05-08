@@ -7,7 +7,7 @@ Author(s):
 ## Project Description
 This is the final project for course MGT4250 at Elon University. [Link to Visualizations](https://public.tableau.com/views/MGT4250_Final/Sheet1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link).
 
-***Visualization 3 was unable to be deployed in Tableau Public due to clustering being unavailable, it will be included in the "Interpreting Visualizations" section.***
+***Visualization 3 was unable to be deployed in Tableau Public due to clustering being unavailable, it will be included in the "Interpreting Visualizations" section and in the "MGT4250_Final.twbx" file.***
 ### Questions of interest
 - What are the different segments of customers we have?
 - How can we find the right customer segments to target our marketing efforts towards?
