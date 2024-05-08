@@ -11,20 +11,19 @@ This is the final project for course MGT4250 at Elon University
 - Implement more clear and concise targeting objectives with improved customization efforts
 - Increased operational efficiency
 - DoorDash: “we can run an experiment and actually quantify the true impact that it had on the business… from a new
-carousel on the home page to our release of the pickup map in the DoorDash app.”1
+carousel on the home page to our release of the pickup map in the DoorDash app.”[^1]
 
-
-
+[^1]:Mark Maurer “How Doordash Uses Analytics and Forecasting amid Economic Uncertainty.” (Wall Street
+Journal, Dow Jones & Company Inc., 2023)
 
 ## Data Description & Upload
 We chose to use a dataset from an online food ordering platform. The data was
-obtained in a csv format from the website Kaggle, and can be downloaded by clicking here.
-The columns that will be used in visualizations are age, family size, occupation, and
-feedback. Age is a continuous variable that represents the age in years of the customer.
-Family size is a continuous variable that represents the number of individuals in the
-customer’s family. Occupation is a string and labels the occupation of the customer as
-either student, employed, housewife or self-employed. Finally, feedback is a binary
-variable representing types of feedback with values of either positive or negative.
+obtained in a csv format from the website Kaggle, and can be downloaded by clicking [here](https://www.kaggle.com/datasets/sudarshan24byte/online-food-dataset).
+### Variable Explanation
+- Age: Continuous variable that represents the age in years of the customer
+- Family size: Continuous variable that represents the number of individuals in the customer’s family. 
+- Occupation: String variable based on the occupation of the customer (student, employed, housewife or self-employed).
+- Feedback: Binary variable representing types of feedback with values of either positive or negative.
 
 ## Interpreting Visualizations
 <img width="601" alt="Screen Shot 2024-05-02 at 5 56 37 PM" src="https://github.com/singere20/mgt4250spring2024/assets/55157734/d2f188e9-0c82-4ae1-8d60-a083db113841">
@@ -47,4 +46,7 @@ responded well so that we can spend our eBort and energy on specific groups of
 customers.
 
 ## Discussion & Summary
+
+
+
 
