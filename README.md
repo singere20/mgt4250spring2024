@@ -3,24 +3,18 @@ Author(s): Ethan Singer (esinger5@elon.edu)
 
 ## Project Description
 [Link to Visualizations](https://public.tableau.com/views/MGT4250_Final/Sheet1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+This is the final project for course MGT4250 at Elon University
 ### Questions of interest
-- Q1
-- Q2
-- Q3
-Our team plans to solve the question of: “how can we find the right customer
-segments to target our marketing eBorts towards?” This question is import as a business
-can implement more clear and concise targeting objectives for the marketing team, as well
-as increased operational eBiciency. DoorDash, the most popular online food ordering
-service, has already began to introduce analytics, as the CFO stated, “we can run an
-experiment and actually quantify the true impact that it had on the business…[from] a new
+- What are the different segments of customers we have?
+- How can we find the right customer segments to target our marketing efforts towards?
+### Importance
+- Implement more clear and concise targeting objectives with improved customization efforts
+- Increased operational efficiency
+- DoorDash: “we can run an experiment and actually quantify the true impact that it had on the business… from a new
 carousel on the home page to our release of the pickup map in the DoorDash app.”1
-Analytics, and visualizations made from those analytics can help improve business
-eBiciencies and customization eBorts for these types of businesses.
 
 
-[Elon University](https://www.elon.edu)
 
-<img width="338" alt="Screen Shot 2024-05-02 at 5 53 30 PM" src="https://github.com/singere20/mgt4250spring2024/assets/55157734/ec8f0e64-4681-4141-86b6-a56701a0956e">
 
 ## Data Description & Upload
 We chose to use a dataset from an online food ordering platform. The data was
