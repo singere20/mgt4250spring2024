@@ -1,5 +1,8 @@
 # MGT 4250 Course Project
-Author(s): Ethan Singer (esinger5@elon.edu)
+Author(s): 
+1. Ethan Singer (esinger5@elon.edu)
+2. Brian Hunt (bhunt11@elon.edu)
+3. Jalen Peoples (jpeoples@elon.edu)
 
 ## Project Description
 [Link to Visualizations](https://public.tableau.com/views/MGT4250_Final/Sheet1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
