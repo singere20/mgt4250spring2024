@@ -23,7 +23,7 @@ We chose to use a dataset from an online food ordering platform. The data was
 obtained in a csv format from the website Kaggle, and can be downloaded by clicking [here](https://www.kaggle.com/datasets/sudarshan24byte/online-food-dataset).
 
 ### Variable Explanation
-- Age: Continuous variable that represents the age in years of the customer
+- Age: Continuous variable that represents the age in years of the customer.
 - Family size: Continuous variable that represents the number of individuals in the customer’s family. 
 - Occupation: String variable based on the occupation of the customer (student, employed, housewife or self-employed).
 - Feedback: Binary variable representing types of feedback with values of either positive or negative.
