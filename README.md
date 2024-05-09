@@ -37,7 +37,17 @@ obtained in a csv format from the website Kaggle, and can be downloaded by click
 The first figure is a histogram titled “Distribution of Occupations”. This visualization
 helps us understand our data and our customers better. By knowing occupation statistics,
 we can start to make educated guesses on which occupation to target for marketing
-purposes.
+purposes. Additionally, the breakdown of positive and negative reviews by occupation 
+gives us some insight into how their employment status, and potentially,  their age,
+is affecting their . Students (presumably younger people) are most likely order, and
+although they account for the second biggest portion of negative orders, they still
+rank very high in customer satisfaction (85%). House wives, although only accounting
+for 9 of the orders, ranked similary with around 89%. People working at jobs and
+self-employed people show the highest levels of dissatisfaction, and are comparitvely
+just about as likely to be unsatisfied (roughly 27.9% and 29.6%, respectively). Assuming
+that difference means anything, it may suggest that people who are more accustomed to
+needing to work with others often are more understanding of subpar service, or simply less
+likely to report it.
 
 ### Visualization 2
 ![Age vs  Fam Size Scatter_Updated](https://github.com/singere20/mgt4250spring2024/assets/55157734/88b527f6-aa35-4c6a-875b-4748ccc9e001)
