@@ -63,7 +63,12 @@ spike back up again for some later ages. According to our sample, there is a dir
 correlation between being 30 years old and leaving a negative review.
 
 Family sizes bigger than 1 but smaller than 4 are more likely to be dissatisfied with their order.
-This could be indicative of the stress of starting a new family or marriage, as well as couples with only children. It also could suggest that bigger families and single people should be the more heavily marketed towards than other groups. In fact, the optimal group to advertise to is a single person or a family of four, as there starts to be progressively more negative feedback as the families get bigger, although it is still more positive than sizes 2 and 3.
+This could be indicative of the stress of starting a new family or marriage, as well as couples
+with only children. It also could suggest that bigger families and single people should be the 
+more heavily marketed towards than other groups. In fact, the optimal group to advertise to is a 
+single person or a family of four, as there starts to be progressively more negative feedback as
+the families get bigger, although it is still more positive than sizes 2 and 3.
+
 ### Visualization 3
 ![Symbol Cluster Map_Updated](https://github.com/singere20/mgt4250spring2024/assets/55157734/2152be34-6de4-4cef-8941-b1af3b0966b1)
 <img width="409" alt="Screen Shot 2024-05-08 at 5 39 14 PM" src="https://github.com/singere20/mgt4250spring2024/assets/55157734/3ddebbbe-4d5c-48e5-826e-589acc4f8366">
