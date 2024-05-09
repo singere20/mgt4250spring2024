@@ -32,7 +32,7 @@ obtained in a csv format from the website Kaggle, and can be downloaded by click
 ## Interpreting Visualizations
 
 ### Visualization 1
-![Occupation Distribution_Updated](https://github.com/singere20/mgt4250spring2024/assets/55157734/ae7d4f28-a01e-439f-b0fb-56ac97421797)
+![Occupation Distribution](https://github.com/singere20/mgt4250spring2024/assets/55157734/8772f027-9e7f-49ff-8523-4b44848df633)
 
 The first figure is a histogram titled “Distribution of Occupations”. This visualization
 helps us understand our data and our customers better. By knowing occupation statistics,
