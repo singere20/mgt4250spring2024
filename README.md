@@ -82,6 +82,11 @@ customers.
 
 ## Discussion & Summary
 
+We chose to look at an article about how restaurants on Doordash can use customer analytics to increase sales. There are several benefits to using these insights including an increase in sales, customers acquired, brand loyalty, improved guest experience, optimized menus, and maximized marketing efforts. The article then goes through and talks about how to collect their data to run an analysis. Doordash allows businesses to see what percentage of customers are new, occasional, and frequent customers, as well as showing visual heatmaps based on which zip codes have the most orders.
+
+[Link to conversation with ChatGPT](https://chat.openai.com/share/f5e5dbab-b716-4111-b46e-e2cf43300ecf)
+
+The article and ChatGPT’s content align fairly well with our observations. We used different analytical and visualization techniques to find the best customer segment to find out which market to target. We also found out which customer segments we are serving and whether they are mostly giving positive/negative feedback. We can use these results to help focus on certain target markets, and what characteristics they have in common.
 
 
 
