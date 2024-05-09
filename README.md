@@ -58,7 +58,7 @@ age and family size. This would allow the marketing team to get an idea of the i
 customer to target marketing efforts towards. Blink-182 notoriously claimed that "Nobody
 likes you when you're 23," and if there is any truth to that statement, this data set 
 supports it: 24-26 year olds are more likely than those younger than them and immediately
-older than them to be unhappy with their order.Interestingly, this negative feedback does
+older than them to be unhappy with their order. Interestingly, this negative feedback does
 spike back up again for some later ages. According to our sample, there is a direct 
 correlation between being 30 years old and leaving a negative review.
 
