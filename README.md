@@ -44,7 +44,7 @@ purposes.
 
 The second plot is a scatter plot with age on the x-axis, family size on the y-axis and
 feedback as the color. This plot was created to see if there was any correlation between
-age and family size. According to the sample, their is a direct correlation between being 30 years old and leaving a negative review. This would allow the marketing team to get an idea of the ideal
+age and family size. This would allow the marketing team to get an idea of the ideal
 customer to target marketing efforts towards.
 
 ### Visualization 3
