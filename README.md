@@ -11,7 +11,7 @@ This is the final project for course MGT4250 at Elon University. [Link to Visual
 ### Questions of interest
 - What are the different segments of customers we have?
 - How can we find the right customer segments to target our marketing efforts towards?
-- What do customers' lifestyles tell us about their level of use and satisfaction?
+- How do the lifestyles of our customers influence their satisfaction and usage patterns?
   
 ### Importance
 - Implement more clear and concise targeting objectives with improved customization efforts
